@@ -1,0 +1,42 @@
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.list-non {
+    list-style-type: none;
+}
+
+.px-5 {
+    padding-right: 1.25rem;
+    padding-left: 5px;
+}
+
+.grid {
+    display: grid;
+}
+
+.grid-cols-3 {
+    grid-template-columns: minmax(3,);
+}
+
+.col-span2 {
+    grid-column: span 2 / span 2;
+}
+
+
