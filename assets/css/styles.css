@@ -1,3 +1,7 @@
+.bg-beige {
+    background-color: bisque;
+}
+
 .flex {
     display: flex;
 }
