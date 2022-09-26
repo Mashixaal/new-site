@@ -2,6 +2,10 @@
     background-color: bisque;
 }
 
+.text-yellow {
+    color: yellow;
+}
+
 .flex {
     display: flex;
 }
